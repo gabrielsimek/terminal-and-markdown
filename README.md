@@ -11,7 +11,7 @@ line two
 
 **bold text**
 
-_ittalic text__
+_ittalic text_
 
 ### I'm going to try to make a table
 | 1 	| 2  	|  3  	|
